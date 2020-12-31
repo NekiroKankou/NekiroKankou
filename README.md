@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello Everyone, Wellcome To My Github Profile</h1>
 <p align="center">
-  <a href="https://github.com/Kanaka-TGIGroup"><img src="https://github-readme-stats.vercel.app/api?username=KanakaID&hide_border=true&show_icons=true" alt="KanakaID github stats"></a>
+  <a href="https://github.com/KanakaID"><img src="https://github-readme-stats.vercel.app/api?username=KanakaID&hide_border=true&show_icons=true" alt="KanakaID github stats"></a>
 </p>
 <p align="center">
   <strong><a href="https://aibwebsite.glitch.me">Official Website</a></strong> |
