@@ -6,7 +6,8 @@
   <a href="https://github.com/Kanaka-TGIGroup"><img src="https://github-readme-stats.vercel.app/api?username=KanakaID&hide_border=true&show_icons=true" alt="KanakaID github stats"></a>
 </p>
 <p align="center">
-  <strong><a href="https://aibwebsite.glitch.me">Official Website</a></strong>
-  <strong><a href="https://discord.gg/FfdwwM6">Discord</a></strong>
+  <strong><a href="https://aibwebsite.glitch.me">Official Website</a></strong> |
+  <strong><a href="https://discord.gg/FfdwwM6">Discord</a></strong> |
+  <strong><a href="">Aquarius Developer API</a></strong>
 </p>
 <p align="center">🥰 I'm a Discord Bot Maker, Web Designer, Youtuber, Game Developer</p>
