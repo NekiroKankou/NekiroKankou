@@ -1,18 +1,25 @@
+<h4>Hello Mina, Ore no namae wa Kanaka Desu~, Wellcome To My Github Profile</h4>
+<img align="center" src="https://cdn.discordapp.com/attachments/836923806265376840/843869978834501632/056c584d9335fcabf080ca43e583e3c4.gif">
+
+
 <p align="center">
-  <a href="https://aibwebsite.glitch.me"><img src="https://cdn.discordapp.com/attachments/767017258249617459/789889457746346024/20201219_231801.jpg" alt="Kanaka-TGIGroup"></a>
+<p>I Am Kanaka Nakazawa, I Am A Programmer From Indonesia, I Really Like Doing Many Experiments Related to Express, Discord.js Etc.</p>
+<h4>My Github Stats:</h4>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanakaID&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-<h1 align="center">Hello Everyone, Wellcome To My Github Profile</h1>
+
+<h4>Favorite Programming Language:</h4>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
+<h4>Favorite Database:</h4>
+<p><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></p>
+<p></p>
 <p align="center">
-  
-<a href="https://github.com/KanakaID">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KanakaID&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/KanakaID">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KanakaID&layout=compact&theme=radical" />
-</a>
+  <h4>My Web:</h4>
+  <strong><a href="https://aibwebsite.glitch.me">Aquaweb</a></strong> |
+  <strong><a href="https://ishudaku.kanakaid.repl.co/">Ishudaku Anime List</a></strong>
 </p>
+
 <p align="center">
-  <strong><a href="https://aibwebsite.glitch.me">Official Website</a></strong> |
-  <strong><a href="https://discord.gg/FfdwwM6">Discord</a></strong> |
-  <strong><a href="">Aquarius Developer API</a></strong>
+Thx For Kaede-No-Ki Team, Otakudesu, And Aquarius Developer Team
+<img src="https://cdn.discordapp.com/attachments/836923806265376840/843880772766269450/4efc0d1d4cc5942ce4ee89d31367153df1e13181_hq.gif">
 </p>
-<p align="center">🥰 I'm a Discord Bot Maker, Web Designer, Youtuber, Game Developer</p>
