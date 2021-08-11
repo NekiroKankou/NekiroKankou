@@ -4,6 +4,7 @@
 
 <p align="center">
 <p>I Am Kanaka Nakazawa, I Am A Programmer From Indonesia, I Really Like Doing Many Experiments Related to Express, Discord.js Etc.</p>
+<p>I Am The Only Website Developer And Bot Aeryuma Development Indonesia</p>
 <h4>My Github Stats:</h4>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanakaID&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
