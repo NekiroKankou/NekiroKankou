@@ -29,3 +29,4 @@ Thx For Kaede-No-Ki Team, Otakudesu, And Aeryuma Development Team
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" />
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneralicia.gif" />
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneramira.gif" />
+<p>Thx For Invite My Bot</p>
