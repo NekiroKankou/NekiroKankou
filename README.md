@@ -24,3 +24,9 @@
 Thx For Kaede-No-Ki Team, Otakudesu, And Aeryuma Development Team
 <img src="https://cdn.discordapp.com/attachments/836923806265376840/843880772766269450/4efc0d1d4cc5942ce4ee89d31367153df1e13181_hq.gif">
 </p>
+
+<img height="180em" src="https://cdn.yuzuhanakazawa.repl.co/bannerasuka.gif" />
+<img height="180em" src="https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif" />
+<img height="180em" src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" />
+<img height="180em" src="https://cdn.yuzuhanakazawa.repl.co/banneralicia.gif" />
+<img height="180em" src="https://cdn.yuzuhanakazawa.repl.co/banneramira.gif" />
