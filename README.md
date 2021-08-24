@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-3/552814506070507531.png">
+<img src="https://discord.c99.nl/widget/theme-3/566214348368773121.png">
 <p>I Am Kanaka Nakazawa, I Am A Programmer From Indonesia, I Really Like Doing Many Experiments Related to Express, Discord.js Etc.</p>
 <p>I Am The Only Website Developer And Bot Aeryuma Development Indonesia</p>
 <h4>My Github Stats:</h4>
