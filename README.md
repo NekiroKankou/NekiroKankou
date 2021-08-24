@@ -12,7 +12,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KanakaID&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaID&theme=tokyonight&hide=batchfile">
 
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerasuka.gif" href=""/>
-<img src="https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneralicia.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneramira.gif" href=""/>
+<img src="https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif" href=""/>
