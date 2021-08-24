@@ -25,6 +25,9 @@
 Thx For Kaede-No-Ki Team, Otakudesu, And Aeryuma Development Team
 <img src="https://cdn.discordapp.com/attachments/836923806265376840/843880772766269450/4efc0d1d4cc5942ce4ee89d31367153df1e13181_hq.gif">
 </p>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KanakaID&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaID&theme=tokyonight&hide=batchfile">
+
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerasuka.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" href=""/>
