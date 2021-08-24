@@ -16,4 +16,4 @@
 <img src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneralicia.gif" href=""/>
 <img src="https://cdn.yuzuhanakazawa.repl.co/banneramira.gif" href=""/>
-[Bunga](https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif)
+![Bunga](https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif)
