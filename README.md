@@ -13,7 +13,8 @@
 
 <img src="https://discordapp.com/api/guilds/751699984466051134/widget.png?style=banner2" alt="Isekai Maid Cafe"/>
 <img src="/assets/bannerasuka.gif" href=""/>
-<img src="https://cdn.yuzuhanakazawa.repl.co/bannerputri.gif" href=""/>
-<img src="https://cdn.yuzuhanakazawa.repl.co/banneralicia.gif" href=""/>
-<img src="https://cdn.yuzuhanakazawa.repl.co/banneramira.gif" href=""/>
-![Bunga](https://cdn.yuzuhanakazawa.repl.co/bannerbunga.gif)
+<img src="/assets/bannerputri.gif" href=""/>
+<img src="/assets/banneralicia.gif" href=""/>
+<img src="/assets/banneramira.gif" href=""/>
+<img src="/assets/bannerbunga.gif" href=""/>
+<img src="/assets/bannermisaki.gif" href=""/>
