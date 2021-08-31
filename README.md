@@ -12,7 +12,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KanakaID&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaID&theme=tokyonight&hide=batchfile">
 
 <img src="https://discordapp.com/api/guilds/751699984466051134/widget.png?style=banner2" alt="Isekai Maid Cafe"/>
-<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FzE8d0PGE&size=large" width="553" height="262" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FzE8d0PGE&size=large" width="553" height="262" frameborder="0"></iframe>
 
 <img src="/assets/bannerasuka.gif" href=""/>
 <img src="/assets/bannerputri.gif" href=""/>
