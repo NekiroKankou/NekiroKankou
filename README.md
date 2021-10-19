@@ -13,4 +13,4 @@
 
 <img src="https://discordapp.com/api/guilds/751699984466051134/widget.png?style=banner2" alt="Isekai Maid Cafe"/>
 
-<iframe src="https://widgetserver.aeryuma.repl.co">
+<img src="https://widgetserver.aeryuma.repl.co">
