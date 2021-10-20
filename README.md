@@ -1,4 +1,5 @@
 # About Me
+<img src="https://avatars.githubusercontent.com/KanakaID.png">
 Hello, I'm Kanaka Nakazawa. I am a programmer from Indonesia. Yoroshiku Onegaishimasu
 <img src="https://discord.c99.nl/widget/theme-2/566214348368773121.png">
 
