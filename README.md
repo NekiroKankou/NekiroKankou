@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/KanakaID" align="right">
+<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/KanakaID">
 
 Hello, I'm Kanaka Nakazawa. I am a programmer from Indonesia. Yoroshiku Onegaishimasu
 <img src="https://discord.c99.nl/widget/theme-2/566214348368773121.png">
