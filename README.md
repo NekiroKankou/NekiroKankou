@@ -9,8 +9,9 @@
 ```ruby
 status = "Student"
 name = "Nekiro Kankou"
-age = now - 2006
+age = Date.current.year - 2006
 ```
+
 -------
 
 <h3>✨ Languages ​​Learned (Basic)</h3>
