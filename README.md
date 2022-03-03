@@ -1,5 +1,7 @@
 <img src="https://github.com/NekiroKankou/ZishoAstaruID/blob/7fe98d1514458438ce5feada4c1ee49674e0dbb0/assets/images%20(75).jpeg">
+
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
+
 > Hello, I'm Astaru
 
 # Stats Github
