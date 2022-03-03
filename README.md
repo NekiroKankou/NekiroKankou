@@ -4,6 +4,8 @@
 
 > Hello, I'm Nekiro. I Developer From Antasia
 
+# Languages ​​I've Learned (Basic)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Stats Github
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
