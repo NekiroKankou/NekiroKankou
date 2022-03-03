@@ -1,8 +1,9 @@
-<img src="https://github.com/NekiroKankou/ZishoAstaruID/blob/7fe98d1514458438ce5feada4c1ee49674e0dbb0/assets/images%20(75).jpeg" height="40" width="100">
+<img src="https://github.com/NekiroKankou/ZishoAstaruID/blob/7fe98d1514458438ce5feada4c1ee49674e0dbb0/assets/images%20(75).jpeg">
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
-> Hello, I'm Astaru
+> Hello, I'm Nekiro. I Developer From Antasia
+
 
 # Stats Github
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
