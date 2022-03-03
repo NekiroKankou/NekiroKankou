@@ -1,5 +1,7 @@
 <img src="https://github.com/NekiroKankou/ZishoAstaruID/blob/7fe98d1514458438ce5feada4c1ee49674e0dbb0/assets/images%20(75).jpeg">
 
+----------
+
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
 > Hello, I'm Nekiro. I Developer From Antasia
@@ -13,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 # Stats Github
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
