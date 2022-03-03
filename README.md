@@ -1,10 +1,10 @@
-<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/ZishoAstaruID">
+<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
-> Hello, I'm Astaru. I am a programmer from Indonesia. Yoroshiku Onegaishimasu
+> Hello, I'm Astaru
 
 # Stats Github
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ZishoAstaruID&theme=dracula&count_private=true"></div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZishoAstaruID&theme=tokyonight&hide=batchfile&langs_count=10">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZishoAstaruID&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekiroKankou&theme=tokyonight&hide=batchfile&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
 
 ©ZishoAstaruID
