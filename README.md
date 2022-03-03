@@ -11,7 +11,7 @@ status = "Student"
 name = "Nekiro Kankou"
 age = Date.current.year - 2006
 ```
-
+<img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 -------
 
 <h3>✨ Languages ​​Learned (Basic)</h3>
