@@ -1,5 +1,5 @@
+<img src="assets/image (75).jpg">
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
-<img src="assets/image">
 > Hello, I'm Astaru
 
 # Stats Github
