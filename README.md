@@ -12,7 +12,6 @@ name = "Nekiro Kankou"
 age = Date.current.year - 2006
 ```
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=552487001824296970)
 -------
 
 <h3>✨ Languages ​​Learned (Basic)</h3>
