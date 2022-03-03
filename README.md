@@ -44,6 +44,6 @@ puts "My Name Is #{name} And My Age is #{age}, Now My Status is #{status}"
 <h3>❄️ Github Stats</h3>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekiroKankou&theme=tokyonight&hide=batchfile&langs_count=10">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff&include_all_commits=true">
 
 ------------
