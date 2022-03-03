@@ -23,7 +23,15 @@ age = Date.current.year - 2006
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-# Stats Github
+<h3>🌷 Language In Learning</h3>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<h3>🎀 Tools & Framework</h3>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h3>❄️ Github Stats</h3>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekiroKankou&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
