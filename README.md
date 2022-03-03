@@ -4,8 +4,13 @@
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
-> Hello, I'm Nekiro. I Developer From Antasiazis Land ||Maybe, Nobody knows||. I Love Learning New Things, And Experimenting With Programming Languages
+> Hello, I'm Nekiro. I Developer From Antasiazis Land. I Love Learning New Things, And Experimenting With Programming Languages
 
+```ruby
+status = "Student"
+name = "Nekiro Kankou"
+age = now - 2006
+```
 -------
 
 <h3>✨ Languages ​​Learned (Basic)</h3>
